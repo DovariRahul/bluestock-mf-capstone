@@ -218,3 +218,32 @@ Stores quarterly AUM information for fund houses.
 * BSE India
 * Bluestock Capstone Dataset
 
+### Insight 1
+SBI Mutual Fund maintained the highest AUM among all fund houses.
+
+### Insight 2
+Monthly SIP inflows showed consistent growth from 2022 to 2025.
+
+### Insight 3
+Investors aged 26–35 contributed the highest transaction volume.
+
+### Insight 4
+Equity-oriented categories attracted the highest inflows.
+
+### Insight 5
+The mutual fund industry folio count nearly doubled during the analysis period.
+
+### Insight 6
+Very High risk funds dominate the available schemes.
+
+### Insight 7
+Most expense ratios fall within the industry-standard range.
+
+### Insight 8
+A few schemes achieved significantly higher Sharpe Ratios than peers.
+
+### Insight 9
+Financial and IT sectors represent a major share of portfolio allocations.
+
+### Insight 10
+Several funds exhibit strong return correlations, indicating similar investment styles.
