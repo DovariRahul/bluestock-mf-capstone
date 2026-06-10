@@ -247,3 +247,19 @@ Financial and IT sectors represent a major share of portfolio allocations.
 
 ### Insight 10
 Several funds exhibit strong return correlations, indicating similar investment styles.
+
+
+### Insight 1
+Funds with the highest VaR exhibit significantly greater downside risk.
+
+### Insight 2
+Recent investor cohorts contribute larger average SIP investments.
+
+### Insight 3
+A percentage of SIP investors are classified as At-Risk due to irregular contribution patterns.
+
+### Insight 4
+Rolling Sharpe Ratios indicate changing risk-adjusted performance across market cycles.
+
+### Insight 5
+Funds with high HHI values maintain concentrated portfolios and may carry greater sector-specific risk.
